@@ -17,6 +17,7 @@ public class Cloud_Imagin {
     public static void main(String[] args) {
         // TODO codeint  application logic here
         int mabite;
+        int mescouilles;
     }
     
 }
