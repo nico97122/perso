@@ -20,6 +20,7 @@ public class Cloud_Imagin {
         int mabite;
         int mescouilles;
         int bitedenoir;
+        int panda;
     }
     
 }
