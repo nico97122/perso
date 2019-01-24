@@ -15,7 +15,8 @@ public class Cloud_Imagin {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO codeint  application logic here
+        int mabite;
     }
     
 }
