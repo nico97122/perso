@@ -19,6 +19,7 @@ public class Cloud_Imagin {
         int moi;
         int mabite;
         int mescouilles;
+        int bitedenoir;
     }
     
 }
